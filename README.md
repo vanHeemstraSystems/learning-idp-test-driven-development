@@ -2,6 +2,8 @@
 
 This repository focuses on Test-Driven Development (TDD) practices specifically for Internal Development Platform (IDP) infrastructure and automation code using Python and Azure SDK.
 
+- [References](./REFERENCES.md)
+
 ## 🎯 Learning Objectives
 
 By working through this repository, you will:
